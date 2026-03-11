@@ -239,9 +239,9 @@ Using selfbots violates Discord’s Terms of Service.
 ## 📦 Releases
 
 Latest stable release:  
-➡️ https://github.com/Siddhu-og/synthex/releases/latest
+➡️ https://github.com/NotNishanXD/synthex/releases/latest
 
 All releases & changelogs:  
-➡️ https://github.com/Siddhu-og/synthex/releases
+➡️ https://github.com/NotNishanXD/synthex/releases
 
 

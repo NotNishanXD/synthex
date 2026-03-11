@@ -227,8 +227,8 @@ No hard-coded junk.
 📌 **Join Discord for Source Code & Updates**
 
 > 💬 Discord
-> **@siddhu.og**
-> **@siddhu.irl**
+> **@_nishan.mp3**
+> **@1nybitzh.**
 
 ## ⚠️ Disclaimer
 
